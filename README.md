@@ -38,6 +38,3 @@ I'm a Student with a passion to learn and build new things. All my projects are 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a 5th Grade student with a passion to create new things and make life easier. I started to learn Windows Batch Script and later moved on to different high level languages. I was the leader of the "Techie Club" in my middle school and guided and won many contests with them. One of it being an World Website Making Competition. Although my hardware skills aren't that good, I have participated and won many Robotics contests in the state. My Journey is driven by my constant passion to learn new things and I hope it stays with me forever. 
-
-[website]: TBD
-[youtube]: https://www.youtube.com/channel/UCvHkXw-TLmM6fY5SE5e18jw
