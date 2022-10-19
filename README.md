@@ -1,6 +1,6 @@
 # 🏄 S Raghunathen
 
-**'17, He/Him'**
+**`17, He/Him`**
 **`Student learning Software Development and Film making`**
 
 ![](https://komarev.com/ghpvc/?username=Raghunathen)
