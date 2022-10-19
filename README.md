@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Raghunathen)
 
-I'm a Student with a passion to learn and build new things. All my projects are built to solve a real-life problem maybe Some are just to showcase/practice something in a fun way. Although I don't do much film making, I have a passion on content creation. Although most of my code aren't avilable here, I'll share some interesting projects of mine. :)
+I'm a Student with a passion to learn and build new things. All my winning projects are built to solve a real-life problem and Here you will probably see some of my side projects that I used to learn or build something in a fun way. Although I don't do much film making, I have a passion on content creation. Although most of my code aren't avilable here, I'll share some interesting projects of mine. :)
 
 ---
 
